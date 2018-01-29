@@ -1,5 +1,5 @@
 
-This program calculates the water accumulated inside the pits. This program cannot simulate the amount of blocks of water would flow and accumulate across the pits within Landscape.
+This program calculates the water accumulated inside the pits. This program cannot simulate to fill the amount of blocks of water, which would eventually flow and accumulate across the pits within Landscape.
 
 Note: clean code principles are applied at certain level, comments are used where ever necessary to explain function of complex method.
  
